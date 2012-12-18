@@ -18,7 +18,7 @@ Getting started
 ---------------
 These examples assume that you have installed mongoDB in your machine and that it is up and running (even if you manually lanched it). 
 
-Clone this repository, cd to it, and install the mongodb client:
+Clone this repository, cd to it, and install the mongodb client for Node.js:
 
     $ git clone https://github.com/hectorcorrea/mongoDbSample.git
     $ cd mongoDbSample
